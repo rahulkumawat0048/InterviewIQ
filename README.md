@@ -34,10 +34,12 @@
 ### Screenshots 
 
 
-<img width="1920" height="1008" alt="dashboard" src="https://github.com/user-attachments/assets/57816c5a-d9a1-4c33-9a79-4e11d34fe528" />
+<img width="1920" height="1008" alt="dashboard" src="https://github.com/user-attachments/assets/0b753654-803f-42c8-a2ed-3379dff9af17" />
 
 
-<img width="1920" height="1008" alt="interviw page" src="https://github.com/user-attachments/assets/7f481e7e-f714-4607-9815-aace16cc9e66" />
+
+<img width="1920" height="1008" alt="interviw page" src="https://github.com/user-attachments/assets/0d817963-943b-4cfd-8276-2a6f60165002" />
+
 
 
 <img width="1920" height="1008" alt="pricing" src="https://github.com/user-attachments/assets/ba2dd1f7-ce54-4b16-a647-75111cc29315" />
