@@ -22,7 +22,7 @@ app.use("/api/", limiter);
 
 // Middleware
 app.use(cors({
-  origin:"http://localhost:5173",
+  origin:"https://interviewiq-client-er1d.onrender.com",
   credentials: true
 }));
 app.use(express.json());
